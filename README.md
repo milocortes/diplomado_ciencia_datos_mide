@@ -47,5 +47,5 @@ Repositorio de módulo **Herramientas computacionales para el manejo de datos: P
 
 ## Recursos adicionales
 
-* (Instalación de miniconda y jupyter notebook.)[https://www.youtube.com/watch?v=YBFwFMxKyyc]
-* (Algorithms - The Secret Rules of Modern Living - BBC documentary)[https://www.youtube.com/watch?v=k2AqGongii0]
+* [Instalación de miniconda y jupyter notebook.](https://www.youtube.com/watch?v=YBFwFMxKyyc)
+* [Algorithms - The Secret Rules of Modern Living - BBC documentary](https://www.youtube.com/watch?v=k2AqGongii0)
