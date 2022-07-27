@@ -37,7 +37,6 @@ Repositorio de módulo **Herramientas computacionales para el manejo de datos: P
 * Sesión 4
 	- Acceso a datos mediante APIS
 	- Accesos a Bases de Datos
-	- Datos Geoespaciales con GeoPandas
 
 
 ## Recursos adicionales
