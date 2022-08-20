@@ -1,0 +1,64 @@
+\begin{thebibliography}{}
+
+\bibitem[Ceder, 2018]{ceder2018quick}
+Ceder, N. (2018).
+\newblock {\em The Quick Python Book}.
+\newblock Manning, third edition.
+
+\bibitem[Danjou, 2018]{danjou2018serious}
+Danjou, J. (2018).
+\newblock {\em Serious Python. Black-Belt Advice on Deployment, Scalability,
+  Testing, and More}.
+\newblock No Starch Press.
+
+\bibitem[Gorelick and Ozsvald, 2020]{gorelick2020high}
+Gorelick, M. and Ozsvald, I. (2020).
+\newblock {\em High Performance Python: Practical Performant Programming for
+  Humans}.
+\newblock O'Reilly Media.
+
+\bibitem[Herlihy et~al., 2021]{herlihy20211}
+Herlihy, M., Shavit, N., Luchangco, V., and Spear, M. (2021).
+\newblock {\em The Art of Multiprocessor Programming (Second Edition)}.
+\newblock Morgan Kaufmann, Boston, second edition edition.
+
+\bibitem[Johansson, 2019]{johansson10numerical}
+Johansson, R. (2019).
+\newblock Numerical python: Scientific computing and data science applications
+  with numpy, scipy and matplotlib.
+\newblock {\em DOI: https://doi. org/10.1007/978-1-4842-4246-9}.
+
+\bibitem[Kong et~al., 2020]{kong2020python}
+Kong, Q., Siauw, T., and Bayen, A. (2020).
+\newblock {\em Python Programming and Numerical Methods: A Guide for Engineers
+  and Scientists}.
+\newblock Academic Press.
+
+\bibitem[Mayer, 2020]{mayer2020oneliners}
+Mayer, C. (2020).
+\newblock {\em Python One-Liners: Write Concise, Eloquent Python Like a
+  Professional}.
+\newblock No Starch Press.
+
+\bibitem[Paskhaver, 2021]{paskhaver2021pandas}
+Paskhaver, B. (2021).
+\newblock {\em Pandas in Action}.
+\newblock Manning, first edition.
+
+\bibitem[Robey and Zamora, 2021]{robey2021parallel}
+Robey, R. and Zamora, Y. (2021).
+\newblock {\em Parallel and High Performance Computing}.
+\newblock Manning, first edition.
+
+\bibitem[Sweigart, 2020]{sweigart2020beyond}
+Sweigart, A. (2020).
+\newblock {\em Beyond the Basic Stuff with Python: Best Practices for Writing
+  Clean Code}.
+\newblock No Starch Press.
+
+\bibitem[Vasiliev, 2022]{vasiliev2020pythondatascience}
+Vasiliev, Y. (2022).
+\newblock {\em Python for Data Science}.
+\newblock No Starch Press.
+
+\end{thebibliography}

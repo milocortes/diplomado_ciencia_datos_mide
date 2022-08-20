@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99d (TeX Live 2019/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: ref_curso_python_mide.aux
+The style file: apalike.bst
+Database file #1: ref_curso_python_mide.bib
+You've used 11 entries,
+            1935 wiz_defined-function locations,
+            520 strings with 4981 characters,
+and the built_in function-call counts, 3326 in all, are:
+= -- 305
+> -- 116
+< -- 9
++ -- 40
+- -- 36
+* -- 232
+:= -- 616
+add.period$ -- 33
+call.type$ -- 11
+change.case$ -- 67
+chr.to.int$ -- 11
+cite$ -- 11
+duplicate$ -- 153
+empty$ -- 251
+format.name$ -- 51
+if$ -- 644
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 21
+newline$ -- 58
+num.names$ -- 33
+pop$ -- 89
+preamble$ -- 1
+purify$ -- 73
+quote$ -- 0
+skip$ -- 110
+stack$ -- 0
+substring$ -- 136
+swap$ -- 11
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 46
+warning$ -- 0
+while$ -- 22
+width$ -- 0
+write$ -- 139
