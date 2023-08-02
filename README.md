@@ -4,7 +4,7 @@ Repositorio de módulo **Herramientas computacionales para el manejo de datos: P
 
 ## Contenido
 
-* Variables y tipos de datos.
+* [Variables y tipos de datos](notebooks/variables_data_types_mide_2023.ipynb).
 * Colecciones:
     - Listas
     - Tuplas
