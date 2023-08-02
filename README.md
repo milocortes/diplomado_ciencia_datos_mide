@@ -6,19 +6,19 @@ Repositorio de módulo **Herramientas computacionales para el manejo de datos: P
 
 * [Variables y tipos de datos](notebooks/variables_data_types_mide_2023.ipynb).
 * Colecciones:
-    - Listas
-    - Tuplas
-    - Conjuntos
-    - Diccionarios
-* Flujos de control:
+    - [Listas](notebooks/collections_mide_2023.ipynb)
+    - [Tuplas](notebooks/collections_mide_2023.ipynb)
+    - [Conjuntos](notebooks/collections_mide_2023.ipynb)
+    - [Diccionarios](notebooks/dictionaries_mide_2023.ipynb)
+* [Flujos de control](notebooks/control_flow_mide_2023.ipynb):
     - while loop
     - if-elif-else 
     - for loop
 
-* Compresión de colecciones:
+* [Compresión de colecciones](notebooks/list_dictionary_comprehensions_mide_2023.ipynb):
     - Compresión de listas.
     - Compresión de diccionarios.
-* Funciones:
+* [Funciones](notebooks/functions_mide_2023.ipynb):
     - Definición de funciones.
     - Funciones lambda.
 * Clases y programación orientada a objetos (OOP).
