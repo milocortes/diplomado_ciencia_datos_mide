@@ -26,6 +26,11 @@ Repositorio de módulo **Herramientas computacionales para el manejo de datos: P
     - Instancia de variables
     - Métodos: estáticos y de clase
     - Herencia
+* Concurrencia.
+    - Multithreading
+    - Multiprocessing
+    - Global Interpreter Lock
+    - Jerarquía de Memoria y tiempos de acceso
 * Lectura y escritura de archivos.
 * Bibliotecas de Ciencia de Datos en Python
     - Numpy
