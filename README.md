@@ -21,19 +21,19 @@ Repositorio de módulo **Herramientas computacionales para el manejo de datos: P
 * [Funciones](notebooks/functions_mide_2023.ipynb):
     - Definición de funciones.
     - Funciones lambda.
-* Clases y programación orientada a objetos (OOP).
+* [Clases y programación orientada a objetos (OOP)](classes_oop_mide_2023.ipynb).
     - Definicion de clases
     - Instancia de variables
     - Métodos: estáticos y de clase
     - Herencia
-* Concurrencia.
+* [Concurrencia](concurrencia_mide_2023.ipynb).
     - Multithreading
     - Multiprocessing
     - Global Interpreter Lock
     - Jerarquía de Memoria y tiempos de acceso
 * Lectura y escritura de archivos.
 * Bibliotecas de Ciencia de Datos en Python
-    - Numpy
+    - [Numpy](numpy_mide_2023.ipynb)
     - Pandas
 * Acceso a bases de datos ```psycopg2```
 
