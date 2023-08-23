@@ -31,11 +31,11 @@ Repositorio de módulo **Herramientas computacionales para el manejo de datos: P
     - Multiprocessing
     - Global Interpreter Lock
     - Jerarquía de Memoria y tiempos de acceso
-* Lectura y escritura de archivos.
+* [Lectura y escritura de archivos](reading_writing_files_mide_2023.ipynb)
 * Bibliotecas de Ciencia de Datos en Python
     - [Numpy](numpy_mide_2023.ipynb)
-    - Pandas
-* Acceso a bases de datos ```psycopg2```
+    - [Pandas](pandas_mide_2023.ipynb)
+* [Acceso a bases de datos ```psycopg2```](databases_access_mide_2023.ipynb)
 
 ## Descarga del repositorio
 
