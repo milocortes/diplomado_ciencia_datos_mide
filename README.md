@@ -1,48 +1,50 @@
-# Diplomado en Ciencia de Datos 2022
+# Diplomado en Ciencia de Datos 2024
 
 Repositorio de módulo **Herramientas computacionales para el manejo de datos: Python** del Diplomado de ciencia de datos del MIDE
 
 ## Contenido
 
-* [Variables y tipos de datos](notebooks/variables_data_types_mide_2023.ipynb).
+* [Variables y tipos de datos](notebooks/variables_data_types_mide_2024.ipynb).
 * Colecciones:
-    - [Listas](notebooks/collections_mide_2023.ipynb)
-    - [Tuplas](notebooks/collections_mide_2023.ipynb)
-    - [Conjuntos](notebooks/collections_mide_2023.ipynb)
-    - [Diccionarios](notebooks/dictionaries_mide_2023.ipynb)
-* [Flujos de control](notebooks/control_flow_mide_2023.ipynb):
+    - [Listas](notebooks/collections_mide_2024.ipynb)
+    - [Tuplas](notebooks/collections_mide_2024.ipynb)
+    - [Conjuntos](notebooks/collections_mide_2024.ipynb)
+    - [Diccionarios](notebooks/dictionaries_mide_2024.ipynb)
+* [Flujos de control](notebooks/control_flow_mide_2024.ipynb):
     - while loop
     - if-elif-else 
     - for loop
 
-* [Compresión de colecciones](notebooks/list_dictionary_comprehensions_mide_2023.ipynb):
+* [Compresión de colecciones](notebooks/list_dictionary_comprehensions_mide_2024.ipynb):
     - Compresión de listas.
     - Compresión de diccionarios.
-* [Funciones](notebooks/functions_mide_2023.ipynb):
+* [Funciones](notebooks/functions_mide_2024.ipynb):
     - Definición de funciones.
     - Funciones lambda.
-* [Clases y programación orientada a objetos (OOP)](classes_oop_mide_2023.ipynb).
+* [Clases y programación orientada a objetos (OOP)](notebooks/classes_oop_mide_2024.ipynb).
     - Definicion de clases
     - Instancia de variables
     - Métodos: estáticos y de clase
     - Herencia
-* [Concurrencia](concurrencia_mide_2023.ipynb).
+* [Concurrencia](notebooks/concurrencia_mide_2024.ipynb).
     - Multithreading
     - Multiprocessing
     - Global Interpreter Lock
     - Jerarquía de Memoria y tiempos de acceso
-* [Lectura y escritura de archivos](reading_writing_files_mide_2023.ipynb)
+* [Lectura y escritura de archivos](notebooks/reading_writing_files_mide_2024.ipynb)
 * Bibliotecas de Ciencia de Datos en Python
-    - [Numpy](numpy_mide_2023.ipynb)
-    - [Pandas](pandas_mide_2023.ipynb)
-* [Acceso a bases de datos ```psycopg2```](databases_access_mide_2023.ipynb)
+    - [Numpy](notebooks/numpy_mide_2024.ipynb)
+    - [Pandas](notebooks/pandas_mide_2024.ipynb)
+    - [DuckDB]
+    - [Polars]
+* [Acceso a bases de datos ```psycopg2```](notebooks/databases_access_mide_2024.ipynb)
 
 ## Descarga del repositorio
 
-Para descargar el repositorio para la rama ```ccm-2023``` utiliza la instrucción:
+Para descargar el repositorio para la rama ```edicion-2024``` utiliza la instrucción:
 
 ```
-git clone -b edicion-2023 https://github.com/milocortes/diplomado_ciencia_datos_mide.git
+git clone -b edicion-2024 https://github.com/milocortes/diplomado_ciencia_datos_mide.git
 ```
 
 ## Recursos adicionales
