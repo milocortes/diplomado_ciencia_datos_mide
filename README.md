@@ -35,8 +35,8 @@ Repositorio de módulo **Herramientas computacionales para el manejo de datos: P
 * Bibliotecas de Ciencia de Datos en Python
     - [Numpy](notebooks/numpy_mide_2024.ipynb)
     - [Pandas](notebooks/pandas_mide_2024.ipynb)
-    - [DuckDB]
-    - [Polars]
+    - [Apache Arrow](notebooks/arrow.ipynb)
+    - [Polars](notebooks/arrow.ipynb)
 * [Acceso a bases de datos ```psycopg2```](notebooks/databases_access_mide_2024.ipynb)
 
 ## Descarga del repositorio
