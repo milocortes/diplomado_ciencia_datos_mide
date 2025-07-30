@@ -1,4 +1,4 @@
-# Diplomado en Ciencia de Datos 2024
+# Diplomado en Ciencia de Datos 2025
 
 Repositorio de módulo **Herramientas computacionales para el manejo de datos: Python** del Diplomado de ciencia de datos del MIDE
 
@@ -41,11 +41,50 @@ Repositorio de módulo **Herramientas computacionales para el manejo de datos: P
 
 ## Descarga del repositorio
 
-Para descargar el repositorio para la rama ```edicion-2024``` utiliza la instrucción:
+Para descargar el repositorio para la rama ```edicion-2025``` utiliza la instrucción:
 
 ```
-git clone -b edicion-2024 https://github.com/milocortes/diplomado_ciencia_datos_mide.git
+git clone -b edicion-2025 https://github.com/milocortes/diplomado_ciencia_datos_mide.git
 ```
+
+## Creación del ambiente virtual con uv
+
+Crearemos un ambiente virtual con la instrucción:
+
+```bash 
+uv init --python 3.11
+```
+
+### Instalación de Jupyter notebook y Marimo
+Para la instalación de Jupyter Notebook con uv ejecutamos:
+
+```bash 
+uv add notebook
+```
+
+Instalamos Marimo con uv:
+
+```bash 
+uv add marimo
+```
+
+
+#### Inicio del servicio de Jupyter Notebook
+
+Para iniciar Jupyter Notebook, ejecutamos :
+
+```bash 
+uv run --with jupyter jupyter notebook
+```
+
+#### Inicio del servicio de Marimo
+
+Para iniciar Marimo, ejecutamos :
+
+```bash 
+uv run marimo edit
+```
+
 
 ## Recursos adicionales
 
