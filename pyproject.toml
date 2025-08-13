@@ -1,0 +1,13 @@
+[project]
+name = "diplomado-ciencia-datos-mide"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "ipykernel>=6.30.0",
+    "ipython>=9.4.0",
+    "notebook>=7.4.4",
+    "numpy>=2.3.2",
+    "pandas>=2.3.1",
+]
