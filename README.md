@@ -1,4 +1,4 @@
-# Diplomado en Ciencia de Datos 2025
+# Diplomado en Ciencia de Datos 2026
 
 Repositorio de módulo **Herramientas computacionales para el manejo de datos: Python** del Diplomado de ciencia de datos del MIDE
 
@@ -41,10 +41,10 @@ Repositorio de módulo **Herramientas computacionales para el manejo de datos: P
 
 ## Descarga del repositorio
 
-Para descargar el repositorio para la rama ```edicion-2025``` utiliza la instrucción:
+Para descargar el repositorio para la rama ```edicion-2026``` utiliza la instrucción:
 
 ```
-git clone -b edicion-2025 https://github.com/milocortes/diplomado_ciencia_datos_mide.git
+git clone -b edicion-2026 https://github.com/milocortes/diplomado_ciencia_datos_mide.git
 ```
 
 ## Creación del ambiente virtual con uv
@@ -52,7 +52,7 @@ git clone -b edicion-2025 https://github.com/milocortes/diplomado_ciencia_datos_
 Crearemos un ambiente virtual con la instrucción:
 
 ```bash 
-uv init --python 3.11
+uv init --python 3.13
 ```
 
 ### Instalación de Jupyter notebook y Marimo
@@ -89,4 +89,5 @@ uv run marimo edit
 ## Recursos adicionales
 
 * [Instalación de miniconda y jupyter notebook.](https://www.youtube.com/watch?v=YBFwFMxKyyc)
+* [The Story of Python and how it took over the world | Python: The Documentary](https://www.youtube.com/watch?v=GfH4QL4VqJ0)
 * [Algorithms - The Secret Rules of Modern Living - BBC documentary](https://www.youtube.com/watch?v=k2AqGongii0)
