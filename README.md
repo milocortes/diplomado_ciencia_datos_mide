@@ -14,7 +14,6 @@ Repositorio de módulo **Herramientas computacionales para el manejo de datos: P
     - while loop
     - if-elif-else 
     - for loop
-
 * [Compresión de colecciones](notebooks/list_dictionary_comprehensions_mide_2024.ipynb):
     - Compresión de listas.
     - Compresión de diccionarios.
@@ -37,6 +36,7 @@ Repositorio de módulo **Herramientas computacionales para el manejo de datos: P
     - [Pandas](notebooks/pandas_mide_2024.ipynb)
     - [Apache Arrow](notebooks/arrow_mide_2024.ipynb)
     - [Polars](notebooks/polars_mide_2024.ipynb)
+    - [DuckDB]()
 * [Acceso a bases de datos ```psycopg2```](notebooks/databases_access_mide_2024.ipynb)
 
 ## Descarga del repositorio
