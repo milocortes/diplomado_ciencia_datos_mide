@@ -3,7 +3,7 @@ import time
 
 start_time = time.time()
 
-df = pd.read_csv('datos/flights/flight_data_2024.csv')
+df = pd.read_parquet('datos/flights/flight_data_2024.parquet')
 df = df[(df['month'] == 5) & 
         (df['origin'] == 'SFO') &
         (df['dest'] == 'SEA')][['month', 'origin','dest']]

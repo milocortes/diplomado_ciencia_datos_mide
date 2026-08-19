@@ -4,7 +4,7 @@ import time
 start_time = time.time()
 
 q = (
-    pl.scan_csv('datos/flights/flight_data_2024.csv')
+    pl.scan_parquet('datos/flights/flight_data_2024.parquet')
     .select(['month', 'origin','dest'])
     .filter(
         (pl.col('month') == 5) & 

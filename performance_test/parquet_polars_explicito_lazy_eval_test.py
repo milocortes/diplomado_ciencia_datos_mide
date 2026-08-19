@@ -4,14 +4,14 @@ import time
 start_time = time.time()
 
 q = (
-    pl.scan_csv('datos/flights/flight_data_2024.csv')
+    pl.read_parquet('datos/flights/flight_data_2024.parquet')
+    .lazy()
     .select(['month', 'origin','dest'])
     .filter(
         (pl.col('month') == 5) & 
         (pl.col('origin') == 'SFO') &
         (pl.col('dest') == 'SEA'))
-)
-
+    )
 df = q.collect()
 print(df)
 print(f"""\n\t *********************************\n\t
