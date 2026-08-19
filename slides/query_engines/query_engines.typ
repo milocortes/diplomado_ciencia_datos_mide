@@ -843,3 +843,15 @@ LIMIT 10;
 
   )
 ]
+
+#slide[
+  #text(font: "Lato", size : 16pt)[
+= Apache DataFusion : An extensible query engine written in Rust that uses Apache Arrow as its in-memory format.
+  ]
+#v(3cm)
+  #figure(
+        image("images/original.svg", width: 100%),
+        numbering: none
+      )
+
+]
